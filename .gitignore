@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Local development settings
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Backup files
+backups/
+
+# Logs
+*.log
+
+# Streamlit specific
+.streamlit/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
